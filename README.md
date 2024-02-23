@@ -1,8 +1,8 @@
 # Assignment 1
 |Std ID|Name|
 |------|-|
-|K211234|Amjad Amjad|
-|K214321|Sajjid Sajjid|
+|I220605|Huzaifa Bin Saif|
+|I221391|Zain Islam|
 
 ## Q1
 In Turing’s 1950 paper on Artificial Intelligence, he predicted that by the year 2000, a computer would become capable enough to have a 30% chance of solving the five-minute Turing Test. A Turing Test is a test conducted where a human is kept in an isolated room, while a machine is another room and an interrogator can ask questions from both entities to determine whether or not it is a person. An AI passing this test means that it will be capable enough to simulate human responses to the point where it can not be distinguished from a human for at least five minutes. His objection however would be that the AI will fail to originate anything given the ‘Lady Lovelace Objection’. This and a few other objections do carry some weight about the limitations on understanding of AI; however, his refutations about improvement of AI and ML over time are valid. A new objection could be that AI will never be able to simulate consciousness or distinguish between what is ethical and unethical 
